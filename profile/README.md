@@ -8,14 +8,14 @@ MazeGroup is an organization that creates applications, sites and projects whose
 
 ### **📖 How did we create MazeGroup? :**
 
-04/05/2022: 
+04/05/2023: 
 
 While MazeGroup still existed, its first project was being created "MazeInstance", MazeInstace was an OS like no other based on python which already had a good graphical interface (And a lot of bugs), it had been created by the first founder of MazeGroup, Genius_um, his friend, Rayanis55 sometimes help him. After the creation of MazeInstance, the second creator, Rayanis55, came into play, with Genius_um they created the first website based in PHP, HTML, CSS and with MySQL "PyPowered", a site that allows you to easily learn Python. After these creations they decided to build the MazeGroup organization which brings together all the projects and with their main goals: Pleasing users!
 
 ### **🧑 Creators :**
 
-- **@genius_um** : Founders, developer, project administrator
-- **@rayanis55** : Founders, developer, project and technical administrator, investor
+- **@genius_um** : Founder, developer, project administrator
+- **@rayanis55** : Founder, developer, project and technical administrator, investor
 
 
 
