@@ -15,5 +15,5 @@ While MazeGroup still existed, its first project was being created "MazeInstance
 ### **🧑 Our teams :**
 
 - **[@Geniusum](https://github.com/Geniusum/)** : Founder, developer, project administrator
-- **[@Rayanis55](https://github.com/Rayanis55/)** : Founder, developer, project and technical administrator, investor
+- **[@itzrayanis](https://github.com/ItzRayanis/)** : Founder, developer, project and technical administrator, investor
 - **WhatD** : Community manager, helper
